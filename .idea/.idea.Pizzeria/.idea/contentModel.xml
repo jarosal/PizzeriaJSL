@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jarek\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jarek\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Pizzeria.-1506899358.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jarek\Desktop\Pizzeria" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pizzeria.Core" t="IncludeRecursive">
+        <e p="BasketHelper.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EmailHelper.cs" t="Include" />
+        <e p="Enums" t="Include">
+          <e p="OperationResult.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Pizzeria.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderHelper.cs" t="Include" />
+        <e p="OrderHistoryHelper.cs" t="Include" />
+        <e p="Pizzeria.Core.csproj" t="IncludeRecursive" />
+        <e p="UserHelper.cs" t="Include" />
+      </e>
+      <e p="Pizzeria.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="DemoDB.db" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20201006191503_CreateDemoDB.cs" t="Include" />
+          <e p="20201006191503_CreateDemoDB.Designer.cs" t="Include" />
+          <e p="DatabaseContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="NoteModel.cs" t="Include" />
+          <e p="OrderModel.cs" t="Include" />
+          <e p="ProductAdditionsModel.cs" t="Include" />
+          <e p="ProductModel.cs" t="Include" />
+          <e p="UserModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Pizzeria.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pizzeria.Data.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Pizzeria.sln" t="IncludeFlat" />
+      <e p="Pizzeria.UI" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HistoryForm.cs" t="Include" />
+        <e p="HistoryForm.Designer.cs" t="Include" />
+        <e p="HistoryForm.resx" t="Include" />
+        <e p="LoginForm.cs" t="Include" />
+        <e p="LoginForm.Designer.cs" t="Include" />
+        <e p="LoginForm.resx" t="Include" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Pizzeria.UI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderForm.cs" t="Include" />
+        <e p="OrderForm.Designer.cs" t="Include" />
+        <e p="OrderForm.resx" t="Include" />
+        <e p="Pizzeria.UI.csproj" t="IncludeRecursive" />
+        <e p="ProductForms" t="Include">
+          <e p="DrinksForm.cs" t="Include" />
+          <e p="DrinksForm.Designer.cs" t="Include" />
+          <e p="DrinksForm.resx" t="Include" />
+          <e p="MainDishForm.cs" t="Include" />
+          <e p="MainDishForm.Designer.cs" t="Include" />
+          <e p="MainDishForm.resx" t="Include" />
+          <e p="PizzaForm.cs" t="Include" />
+          <e p="PizzaForm.Designer.cs" t="Include" />
+          <e p="PizzaForm.resx" t="Include" />
+          <e p="SoupsForm.cs" t="Include" />
+          <e p="SoupsForm.Designer.cs" t="Include" />
+          <e p="SoupsForm.resx" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RegisterForm.cs" t="Include" />
+        <e p="RegisterForm.Designer.cs" t="Include" />
+        <e p="RegisterForm.resx" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

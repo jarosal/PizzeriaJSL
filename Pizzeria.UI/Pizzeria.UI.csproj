@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Update="LoginForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="MainForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="RegisterForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductForms\PizzaForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductForms\MainDishForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductForms\SoupsForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductForms\DrinksForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="OrderForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="HistoryForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Pizzeria.Core\Pizzeria.Core.csproj" />
+      <ProjectReference Include="..\Pizzeria.Data\Pizzeria.Data.csproj" />
+    </ItemGroup>
+
+</Project>
